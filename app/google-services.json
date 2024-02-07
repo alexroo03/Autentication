@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1077175367809",
+    "project_id": "autentication-ad105",
+    "storage_bucket": "autentication-ad105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077175367809:android:7c70480f85b6a3a28bf580",
+        "android_client_info": {
+          "package_name": "com.example.autenticacion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyDs23cuBRfiZPZ9G-QFhVktsbHTPNP7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077175367809:android:0bf05ab93f6f87418bf580",
+        "android_client_info": {
+          "package_name": "com.example.autentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyDs23cuBRfiZPZ9G-QFhVktsbHTPNP7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
